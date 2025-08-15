@@ -1,2 +1,4 @@
-# estudo_sass
-Exemplos de uso do preprocessador sass
+# sass usage example
+Um exemplo simples do uso do pre-processador sass
+
+
